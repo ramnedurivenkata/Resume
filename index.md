@@ -1,13 +1,11 @@
-## Welcome to GitHub Pages
+Rampandu CV
 
-You can use the [editor on GitHub](https://github.com/ramnedurivenkata/Resume/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I wish to work in a fast growing organization and use my skills to build scalable technology that serve millions of users
 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+ganiza
 ```markdown
 Syntax highlighted code block
 
